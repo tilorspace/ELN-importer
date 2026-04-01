@@ -1,0 +1,97 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+
+Version 3, 19 November 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+</p>
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+Preamble
+
+The GNU General Public Licenses are designed to make sure that you have freedom to share and change all your software.  By contrast, the GNU Affero General Public License is intended to ensure your freedom to share and change all software that is used over a network.
+
+When you distribute this software, you must give the recipients all the rights that you have. You must make sure that they, too, receive or can get the source code. If you use this software on a server, you must make the source code available over the network, so that everyone else also has that opportunity.
+
+This license was originally written for use in software distribution. The licenses are designed to be used for any kind of software distribution. They apply equally to both proprietary and free software.
+
+1.  Definitions
+
+  1.1 "This License" refers to version 3 of the GNU Affero General Public License.
+
+  1.2 "Copyright" also means copyright-like laws that apply to other kinds of works, such as semi-conductors.
+
+  1.3 "The Program" refers to the work covered by this License. This may be a single program or a collection of programs.
+
+  1.4 "You" refers to the person or entity that uses the Program and has the rights under this License.
+
+  1.5 "Your" is understood to refer to the owner of the rights that you have under this License.
+
+  1.6 "Source Code" for a work means the preferred form of the work for making changes to it.
+
+  1.7 "Object Code" means any non-source form of a work.
+
+  1.8 "Distribution" means to make available to others, regardless of the method.
+
+  1.9 "Convey" means to communicate or make available to others, including, but not limited to, distribution and copying.
+
+  1.10 "Network Use" means interacting with a user through a computer network, if the user has the ability to obtain the source code.
+
+  1.11 "Modified Version" means a work that has been changed from the Program or from a previous version of this License.
+
+  1.12 "Propagating" means taking an unmodified Version and using it to make a Modified Version.
+
+2.  Basic Permissions
+
+  You may make, run, and distribute copies of the Program, source code, and modified versions of the Program with the terms of this License.
+
+  You must keep intact all notices stating that this License and any warranty disclaimers must be included in all copies and modified versions.
+
+  There are no additional restrictions on your rights, you may make, run, and distribute copies of the Program, subject to the obligations contained in this License.
+  
+3.  Protecting Users' Legal Rights From Anti-Circumvention Law
+
+  No one is allowed to impose any further restrictions on your rights to use or share the Program or modify it.  Therefore, if you distribute any work based on the Program, you must not impose any further restrictions that would prevent the work from being used or shared.
+
+4.  Source Code
+
+  If you distribute the Program or a modified version, you must make the source code available, so that the user can study, change, and improve the Program.
+
+5.  Interaction with Other Licenses
+
+  If you use the Program in conjunction with other software in a way that creates an interactive user experience, you must ensure that the terms of this License are met with respect to the entire software in which the Program is used.
+
+6.  Anti-Circumvention
+
+  The right to access, share, and modify the Software may not be restricted by any anti-circumvention technologies or other means.
+
+7.  Disclaimer of Warranty
+
+  The software is provided "as is" without warranty of any kind. You must accept the risk of anything that happens.
+
+8.  Acceptance
+
+  By running, copying, distributing, or modifying the Program, you accept this License.
+
+9.  Termination
+
+  If you fail to comply with the terms of this License, your rights under it will terminate automatically. However, if your copyright was terminated, you may still use the work, subject to the terms of this License, but you cannot distribute it to others.
+
+10.  Future Versions
+
+  The Free Software Foundation may publish new versions of the GNU Affero General Public License.  You may always pick the version that you prefer.
+
+11.  Additional Terms
+
+  You may offer additional terms, as long as they do not conflict with this License. These additional terms must be made clear so that users can easily distinguish between the terms you offer and this License.
+
+12.  Interpretation
+
+  If there are any parts of this License that are found to be invalid or unenforceable, the rest of the terms still apply.
+
+13.  Reductions in Notice
+
+  This License contains expressions that appear only to reflect usage and are not meant to insist on strict compliance with the terms of this License. These expressions do not affect the validity of the terms.
+
+14.  Severability
+
+  If any part of this License is found to be void or ineffective, it does not affect the validity of the other provisions, and they remain in effect.
